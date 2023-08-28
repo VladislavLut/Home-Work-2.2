@@ -1,0 +1,27 @@
+span{
+    text-decoration: none;
+    color: red;
+    padding: 30px;
+}
+.note2{
+    background-color: #e1e1e1;
+    width: 500px;
+    padding: 10px;
+    list-style-image: url(icons/checked.png);
+    list-style-position: inside;
+    text-decoration: line-through;
+}
+.note3{
+    background-color: #A5CCDB;
+    width: 500px;
+    padding: 10px;
+    list-style-image: url(icons/unchecked.png);
+    list-style-position: inside;
+}
+.note{
+    background-color: #8eb0be;
+    width: 500px;
+    padding: 10px;
+    list-style-image: url(icons/unchecked.png);
+    list-style-position: inside;
+}
